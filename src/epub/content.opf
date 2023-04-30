@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Blue Bird</dc:title>
 		<meta property="file-as" refines="#title">Blue Bird, The</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">The Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness</dc:title>
+		<meta property="file-as" refines="#subtitle">Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness, The</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">The Blue Bird for Children; The Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness</dc:title>
+		<meta property="file-as" refines="#fulltitle">Blue Bird for Children; The Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness, The</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Children's stories</dc:subject>
 		<dc:subject id="subject-2">Children -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
