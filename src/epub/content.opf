@@ -47,7 +47,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-US</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27991</dc:source>
 		<dc:source>https://archive.org/details/bluebirdforchild00lebl</dc:source>
 		<meta property="se:production-notes">Removed dedication and introduction as they didn’t feel necessary.</meta>
