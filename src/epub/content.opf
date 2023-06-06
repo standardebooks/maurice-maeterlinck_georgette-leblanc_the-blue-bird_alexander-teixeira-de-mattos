@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc/the-blue-bird/alexander-teixeira-de-mattos</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-06T22:00:47Z</dc:date>
+		<meta property="dcterms:modified">2023-06-06T22:00:47Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Two children go on a magical adventure in search of the Blue Bird.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Mytyl and Tyltyl, the children of Mummy and Daddy Tyl, are spending their Christmas Eve gazing at the extravagant party of their rich neighbours, when suddenly the door flies open to reveal an old fairy. She explains that she’s looking for the Blue Bird—the only thing that will save her sick daughter—and enlists the children to help her in her quest. The children, with the aid of the family cat and dog whom the fairy has given the power of speech, readily agree to the undertaking.&lt;/p&gt;
+			&lt;p&gt;Mytyl and Tyltyl, the children of Mummy and Daddy Tyl, are spending their Christmas Eve gazing at the extravagant party of their rich neighbors, when suddenly the door flies open to reveal an old fairy. She explains that she’s looking for the Blue Bird—the only thing that will save her sick daughter—and enlists the children to help her in her quest. The children, with the aid of the family cat and dog whom the fairy has given the power of speech, readily agree to the undertaking.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc"&gt;Maurice Maeterlinck&lt;/a&gt; was a Belgian author whose work was highly regarded; indeed, he was awarded the Nobel Prize for Literature in 1911 with special recognition given to his dramatic works. His play &lt;i&gt;The Blue Bird&lt;/i&gt; premiered in 1908, and the prose version for children presented here was written by his lover &lt;a href="https://standardebooks.org/ebooks/maurice-maeterlinck_georgette-leblanc"&gt;Georgette Leblanc&lt;/a&gt; five years later. The story has been further adapted to film, television and radio many times, including a role for Shirley Temple as Mytyl. This production was translated to English by Alexander Teixera de Mattos, notable for also translating many &lt;a href="https://standardebooks.org/collections/arsene-lupin"&gt;Arsène Lupin&lt;/a&gt; novels for &lt;a href="https://standardebooks.org/ebooks/maurice-leblanc"&gt;Maurice Leblanc&lt;/a&gt;: Georgette Leblanc’s brother.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/27991</dc:source>
 		<dc:source>https://archive.org/details/bluebirdforchild00lebl</dc:source>
 		<meta property="se:production-notes">Removed dedication and introduction as they didn’t feel necessary.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">32786</meta>
+		<meta property="se:reading-ease.flesch">81.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blue_Bird_(play)#Novelization</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-maeterlinck_georgette-leblanc_the-blue-bird_alexander-teixeira-de-mattos</meta>
 		<dc:creator id="author-1">Maurice Maeterlinck</dc:creator>
@@ -103,6 +103,10 @@
 		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
