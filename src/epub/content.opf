@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/27991</dc:source>
 		<dc:source>https://archive.org/details/bluebirdforchild00lebl</dc:source>
 		<meta property="se:production-notes">Removed dedication and introduction as they didn’t feel necessary.</meta>
-		<meta property="se:word-count">32786</meta>
+		<meta property="se:word-count">32787</meta>
 		<meta property="se:reading-ease.flesch">81.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blue_Bird_(play)#Novelization</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/maurice-maeterlinck_georgette-leblanc_the-blue-bird_alexander-teixeira-de-mattos</meta>
