@@ -56,7 +56,7 @@
 		<meta property="schema:wordCount">32325</meta>
 		<meta property="schema:educationalLevel">81.33</meta>
 		<link href="https://en.wikipedia.org/wiki/The_Blue_Bird_(play)#Novelization" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/maurice-maeterlinck_georgette-leblanc_the-blue-bird_alexander-teixeira-de-mattos" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author-1">Maurice Maeterlinck</dc:creator>
