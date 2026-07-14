@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Blue Bird for Children; The Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness</dc:title>
 		<meta property="file-as" refines="#fulltitle">Blue Bird for Children; The Wonderful Adventures of Tyltyl and Mytyl in Search of Happiness, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Children's stories</dc:subject>
 		<dc:subject id="subject-2">Children -- Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
